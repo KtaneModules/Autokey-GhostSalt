@@ -1,0 +1,1406 @@
+fileFormatVersion: 2
+guid: 519ff00e4e8dac840b4b0ff864f6cfce
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: morshu_0
+    21300002: morshu_1
+    21300004: morshu_2
+    21300006: morshu_3
+    21300008: morshu_4
+    21300010: morshu_5
+    21300012: morshu_6
+    21300014: morshu_7
+    21300016: morshu_8
+    21300018: morshu_9
+    21300020: morshu_10
+    21300022: morshu_11
+    21300024: morshu_12
+    21300026: morshu_13
+    21300028: morshu_14
+    21300030: morshu_15
+    21300032: morshu_16
+    21300034: morshu_17
+    21300036: morshu_18
+    21300038: morshu_19
+    21300040: morshu_20
+    21300042: morshu_21
+    21300044: morshu_22
+    21300046: morshu_23
+    21300048: morshu_24
+    21300050: morshu_25
+    21300052: morshu_26
+    21300054: morshu_27
+    21300056: morshu_28
+    21300058: morshu_29
+    21300060: morshu_30
+    21300062: morshu_31
+    21300064: morshu_32
+    21300066: morshu_33
+    21300068: morshu_34
+    21300070: morshu_35
+    21300072: morshu_36
+    21300074: morshu_37
+    21300076: morshu_38
+    21300078: morshu_39
+    21300080: morshu_40
+    21300082: morshu_41
+    21300084: morshu_42
+    21300086: morshu_43
+    21300088: morshu_44
+    21300090: morshu_45
+    21300092: morshu_46
+    21300094: morshu_47
+    21300096: morshu_48
+    21300098: morshu_49
+    21300100: morshu_50
+    21300102: morshu_51
+    21300104: morshu_52
+    21300106: morshu_53
+    21300108: morshu_54
+    21300110: morshu_55
+    21300112: morshu_56
+    21300114: morshu_57
+    21300116: morshu_58
+    21300118: morshu_59
+    21300120: morshu_60
+    21300122: morshu_61
+    21300124: morshu_62
+    21300126: morshu_63
+    21300128: morshu_64
+    21300130: morshu_65
+    21300132: morshu_66
+    21300134: morshu_67
+    21300136: morshu_68
+    21300138: morshu_69
+    21300140: morshu_70
+    21300142: morshu_71
+    21300144: morshu_72
+    21300146: morshu_73
+    21300148: morshu_74
+    21300150: morshu_75
+    21300152: morshu_76
+    21300154: morshu_77
+    21300156: morshu_78
+    21300158: morshu_79
+    21300160: morshu_80
+    21300162: morshu_81
+    21300164: morshu_82
+    21300166: morshu_83
+    21300168: morshu_84
+    21300170: morshu_85
+    21300172: morshu_86
+    21300174: morshu_87
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: morshu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2390
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2390
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_2
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2390
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_3
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2390
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_4
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2390
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_5
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2390
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_6
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2390
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_7
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2390
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2151
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2151
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_10
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2151
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_11
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2151
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2151
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_13
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2151
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_14
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2151
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_15
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2151
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1912
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1912
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1912
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_19
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1912
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_20
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1912
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_21
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1912
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_22
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1912
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_23
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1912
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1673
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_25
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1673
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_26
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1673
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_27
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1673
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_28
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1673
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_29
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1673
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_30
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1673
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_31
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1673
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1434
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1434
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_34
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1434
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_35
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1434
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_36
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1434
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_37
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1434
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_38
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1434
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_39
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1434
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1195
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1195
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_42
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1195
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_43
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1195
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_44
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1195
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_45
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1195
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_46
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1195
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_47
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1195
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 956
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_49
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 956
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_50
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 956
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_51
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 956
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_52
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 956
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_53
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 956
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_54
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 956
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_55
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 956
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 717
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_57
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 717
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_58
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 717
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_59
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 717
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_60
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 717
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_61
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 717
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_62
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 717
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_63
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 717
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 478
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_65
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 478
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_66
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 478
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_67
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 478
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_68
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 478
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_69
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 478
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_70
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 478
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_71
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 478
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_73
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 239
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_74
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 239
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_75
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 239
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_76
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 239
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_77
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 239
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_78
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 239
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_79
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 239
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_81
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_82
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_83
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_84
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_85
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_86
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: morshu_87
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 384
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,10 @@
+{
+  "name": "GSAutokey-Editor",
+  "references": [
+    "GSAutokey"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
